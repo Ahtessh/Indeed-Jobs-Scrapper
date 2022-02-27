@@ -7,8 +7,8 @@ It scrapes Job Title , salaray , job links , discriptions and location from inde
   
 <br/>
 <div align="center">
-  <a href="https://github.com/Ahtessh/Indeed-Jobs-Scrapper-/blob/main/image.png">
-    <img src="https://i.imgur.com/9l4pHEN.png" alt="Logo" width="120" height="120">
+  <a href="https://github.com/Ahtessh/Indeed-Jobs-Scrapper-">
+    <img src="https://github.com/Ahtessh/Indeed-Jobs-Scrapper-/blob/main/Capture.PNG" alt="Logo" width="120" height="120">
   </a>
   
   <h2 align="center">Python Indeed Job Scraper</h3>

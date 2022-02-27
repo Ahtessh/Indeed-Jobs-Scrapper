@@ -18,6 +18,7 @@ It scrapes Job Title , salaray , job links , discriptions and location from inde
   </p>
   <p align="center">
   <img src="https://github.com/Ahtessh/Indeed-Jobs-Scrapper-/blob/main/image.png"/>
+    <img src="https://github.com/Ahtessh/Indeed-Jobs-Scrapper-/blob/main/Input.PNG"/>
   <img src="https://github.com/Ahtessh/Indeed-Jobs-Scrapper-/blob/main/output.PNG"/>
   <img src="https://github.com/Ahtessh/Indeed-Jobs-Scrapper-/blob/main/website.PNG"/>
 </p>
